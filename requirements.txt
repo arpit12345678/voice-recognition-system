@@ -1,6 +1,5 @@
 streamlit
 pyttsx3
 speechrecognition
-pyaudio
 pyautogui
 email-validator

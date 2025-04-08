@@ -9,7 +9,7 @@
 
 ### Requirements
 - Python 3.x
-- `SpeechRecognition`, `pyaudio`, `smtplib`
+- `SpeechRecognition`, `smtplib`
 
 ### Setup
 1. Fill in your email config in `config.py`
