@@ -6,8 +6,8 @@ def onboarding():
     Welcome to your personal voice assistant.
     You can say things like:
     - Open Google
-    - Open Notepad
     - Send Email
+    - Search Online
     - Exit
     """
     print(message)

@@ -4,7 +4,8 @@
 - Speech-to-text conversion
 - Command execution
 - Email sending via voice
-- Opens websites or notepad
+- Opens websites 
+- Search online
 
 ### Requirements
 - Python 3.x
@@ -17,4 +18,4 @@
 ### Example Commands
 - "open google"
 - "send email"
-- "open notepad"
+- "search online"
