@@ -1,0 +1,4 @@
+[server]
+headless = true
+runOnSave = true
+defaultCommand = "streamlit run streamlit_main.py"
